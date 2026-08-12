@@ -26,7 +26,7 @@ This repository contains a curated library of MIDI arrangements optimized for pe
 Here are some of the main tracks available in this repository:
 
 * **Rush Series:** *Rush E (1, 2, 3, 4, God Audio, Ouranos, Second heaven etc.)*
-* **Tetris & Memes:** *Tetris Remixes, Amogus Sparta Remix, and other meme's.*
+* **Tetris & Memes:** *Tetris Remixes, Amogus Sparta Remix, and other meme  s.*
 * **Gaming OSTs:** *Undertale (Finale, Battle Against A True Hero), Honkai: Star Rail (Cat Loving, Telepathy)*
 * **Extreme Tests:** *The Nuker series, Lag testers, Coral Challenges*
 
@@ -36,7 +36,7 @@ Here are some of the main tracks available in this repository:
 
 1. **Download the MIDI:**
    * Browse the repository list above and select the `.mid` file you want.
-   * Click **Download raw file** to get install the MIDI file. Piano haven will ask for an raw download link so just go to downloaded files, copy the download link.
+   * Click **Download raw file** to install the MIDI file. Piano haven will ask for an raw download link so just go to downloaded files, copy the download link.
 
 2. **Load into Player:**
    * Import the download link into your auto Roblox piano haven auto player.
@@ -54,8 +54,6 @@ Here are some of the main tracks available in this repository:
 ## 📄 License
 
 Distributed under the MIT License.
-
-# 📜 MIT License
 
 > **Copyright (c) 2026 CagriLo3169**
 
