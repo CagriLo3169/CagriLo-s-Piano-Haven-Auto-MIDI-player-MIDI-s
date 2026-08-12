@@ -2,7 +2,9 @@
 
 ![Roblox](https://img.shields.io/badge/Platform-Roblox-blue?style=for-the-badge&logo=roblox)
 ![MIDI Files](https://img.shields.io/badge/Format-MIDI--.mid-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+![Year](https://img.shields.io/badge/Copyright-2026-blue?style=for-the-badge)
+
 
 A specialized collection of custom, optimized, black MIDI, and audio-adjusted `.mid` files specifically designed for Roblox Piano Haven and other auto MIDI players/scripts.
 
@@ -54,9 +56,6 @@ Here are some of the main tracks available in this repository:
 Distributed under the MIT License.
 
 # 📜 MIT License
-
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
-![Year](https://img.shields.io/badge/Copyright-2026-blue?style=for-the-badge)
 
 > **Copyright (c) 2026 CagriLo3169**
 
