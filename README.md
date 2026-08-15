@@ -53,7 +53,8 @@ Here are some of the main tracks available in this repository:
 
 ## 📄 License
 
-Distributed under the MIT License.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+![Year](https://img.shields.io/badge/Copyright-2026-blue?style=for-the-badge)
 
 > **Copyright (c) 2026 CagriLo3169**
 
@@ -70,6 +71,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 ### ⚠️ Conditions
 * **Copyright Notice:** The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+* **Attribution (Credit Required):** If you use any MIDI file from this repository in a video, showcase, or stream, you **must** credit **CagriLoz on YouTube** or **link back to this repository** in the video description.
 
 ---
 
